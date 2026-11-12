@@ -54,12 +54,12 @@
    URL и заголовки обеих задач:
 
    ```
-   POST https://api.github.com/repos/Therealwh/wtfpoxy-status-bot/dispatches
+   POST https://api.github.com/repos/Therealwh/wtfpoxy-status-bot/actions/workflows/post.yml/dispatches
    Accept: application/vnd.github+json
    Authorization: Bearer <GITHUB_PAT>
    User-Agent: cron-job.org
    Content-Type: application/json
-   {"event_type":"post"}
+   {"ref":"main"}
    ```
 
    `<GITHUB_PAT>` — персональный токен GitHub с правом `repo` (fine-grained: Contents + Actions на этот репозиторий). Без `User-Agent` GitHub API отвечает 403 — обязательно укажите.
