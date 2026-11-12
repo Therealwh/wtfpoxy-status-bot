@@ -36,6 +36,7 @@ BUTTONS = {
         [{"text": "🎁 Получить прокси бесплатно", "url": "https://t.me/webproxy_tgrobot"}],
         [{"text": "💎 Купить платный прокси", "url": "https://t.me/webproxy_panel_bot"}],
         [{"text": "🛡 Купить VPN с белыми списками", "url": "https://t.me/SafeLineVPNrobot"}],
+        [{"text": "🛰 MTProto — если веб не работает", "url": "https://t.me/mtprxtgg"}],
     ]
 }
 

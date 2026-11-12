@@ -28,6 +28,7 @@
 | 🎁 Получить прокси бесплатно | [@webproxy_tgrobot](https://t.me/webproxy_tgrobot) |
 | 💎 Купить платный прокси | [@webproxy_panel_bot](https://t.me/webproxy_panel_bot) |
 | 🛡 Купить VPN с белыми списками | [@SafeLineVPNrobot](https://t.me/SafeLineVPNrobot) |
+| 🛰 MTProto — если веб не работает | [@mtprxtgg](https://t.me/mtprxtgg) |
 
 Пост отправляется **беззвучно** (`disable_notification`). Если статус-страница недоступна или в ней проблемы — пост всё равно выйдет (упрощённый текст без цифр), если сервис в красной зоне — заголовок и концовка меняются на «проблемные».
 
